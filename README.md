@@ -30,7 +30,7 @@ SELECT
     END AS delivery_status
 FROM orders;
 ```
-##🧠 Technical Highlights
+## 🧠 Technical Highlights
 Star Schema Modeling: Connected Fact tables (Orders) to Dimensions (Customers, Products).
 
 Advanced DAX: MoM Growth % using VAR and CALCULATE for time-series analysis.
