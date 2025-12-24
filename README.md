@@ -1,6 +1,6 @@
 # 🇧🇷 Olist E-Commerce 360: Supply Chain & Revenue Analysis
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png.png)
 
 ## 📌 Project Overview
 **The Scenario:** Olist is a large Brazilian e-commerce marketplace. The operations team is facing complaints about delivery delays but lacks visibility into *where* these bottlenecks are happening and how they impact revenue.
