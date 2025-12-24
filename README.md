@@ -1,4 +1,4 @@
-# 🇧🇷 Olist E-Commerce 360: Supply Chain & Revenue Analysis
+# Olist E-Commerce 360: Supply Chain & Revenue Analysis
 
 ![Dashboard Overview](dashboard_overview.png.png)
 
