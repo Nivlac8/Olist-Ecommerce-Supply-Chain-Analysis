@@ -28,8 +28,8 @@ SELECT
         WHEN delivery_date > estimated_date THEN 'Late'
         ELSE 'On Time'
     END AS delivery_status
-FROM orders;```
-
+FROM orders;
+```
 🧠 Technical Highlights
 Star Schema Modeling: Connected Fact tables (Orders) to Dimensions (Customers, Products).
 
